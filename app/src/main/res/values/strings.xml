@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="list_product">List Product</string>
+    <string name="text_empty">Empty\n</string>
+</resources>
